@@ -1,0 +1,25 @@
+{
+    "name": "KIRennspielGehirn",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v2": "*",
+        "pxt-neural-network-json": "github:CalliTGS3/pxt-ki-in-schulen#b2f0e6c1afa1e3f1c03974ac38993fee70ae9933"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.21",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "tsprj"
+}
