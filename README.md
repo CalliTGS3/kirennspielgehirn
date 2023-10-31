@@ -1,14 +1,23 @@
+# KI Rennspiel für Calliope mini
 
-> Diese Seite bei [https://callitgs3.github.io/kirennspielgehirn/](https://callitgs3.github.io/kirennspielgehirn/) öffnen
+Dieses Projekt ist eine Implementierung von
 
-## Als Erweiterung verwenden
+[https://github.com/telekom/ki-in-schulen/blob/master/Calliope-Rennspiel/Makecode/KI-Erweiterung/rennspiel-ki-makecode.js](https://github.com/telekom/ki-in-schulen/blob/master/Calliope-Rennspiel/Makecode/KI-Erweiterung/rennspiel-ki-makecode.js)
 
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
+für zwei Calliope mini.
 
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/callitgs3/kirennspielgehirn** suchen und importieren
+Auf dem zweiten Calliope mini muss das Projekt 
+
+[https://github.com/CalliTGS3/autonom](https://github.com/CalliTGS3/autonom) 
+
+laufen und beide Calliope müssen über den seriellen Anschluss miteinander verbunden sein (RX>->TX, TX<->RX und Masse).
+
+
+Weitere Informationen:
+
+[https://github.com/telekom/ki-in-schulen/tree/master/Calliope-Rennspiel](https://github.com/telekom/ki-in-schulen/tree/master/Calliope-Rennspiel)
+
+
 
 ## Dieses Projekt bearbeiten
 
