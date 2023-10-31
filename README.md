@@ -8,7 +8,7 @@ für zwei Calliope mini.
 
 Auf dem zweiten Calliope mini muss das Projekt 
 
-[https://github.com/CalliTGS3/autonom](https://github.com/CalliTGS3/autonom) 
+[https://github.com/CalliTGS3/kirennspielautonom](https://github.com/CalliTGS3/kirennspielautonom) 
 
 laufen und beide Calliope müssen über den seriellen Anschluss miteinander verbunden sein (RX>->TX, TX<->RX und Masse).
 
